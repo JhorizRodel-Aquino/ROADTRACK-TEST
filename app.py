@@ -15,10 +15,14 @@ CORS(app)
 geocode_event = Event()
 
 # MySQL Database Configuration
-hostname = 'localhost'
-username = 'root'
-password = ''
-dbname = 'roadtrackdb'
+# hostname = 'localhost'
+# username = 'root'
+# password = ''
+# dbname = 'roadtrackdb'
+hostname = 'srv1668.hstgr.io'
+username = 'u854837124_roadtracktest'
+password = 'Roadracktest1234'
+dbname = 'u854837124_roadtrack_db'
 # hostname = 'srv1668.hstgr.io'
 # username = 'u854837124_roadtrack'
 # password = 'RoadTrack123!'
